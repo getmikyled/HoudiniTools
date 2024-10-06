@@ -53,3 +53,5 @@ Offset - (x, y, z)
 
 https://github.com/user-attachments/assets/81bd64de-63d7-4b11-a7d4-c3dc4cdab029
 
+## Credits
+White Brick Material - PolyHaven
