@@ -3,7 +3,7 @@
 Blobs Games' game *Go Cones* features a procedurally generating map. We wanted lots of building variation to increase environmental/atmosphere appeal and replayability.
 
 #### Solution
-To rapidly create different buildings, I established a 3D Art Pipeline to **speed up production by 75%**.
+To rapidly create different buildings, I established a 3D Art Pipeline to **speed up production**.
 
 *Houdini* -> *Substance Painter* -> *Unreal Engine 5*
 
